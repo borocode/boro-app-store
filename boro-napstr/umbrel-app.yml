@@ -5,6 +5,7 @@ tagline: Sovereign P2P Nostr & Tor audio seeder & web player
 category: Media
 version: "0.1.0"
 port: 30421
+icon: "https://raw.githubusercontent.com/borocode/boro-app-store/main/boro-napstr/icon.png"
 description: >-
   Napstr is a sovereign peer-to-peer music library and streaming client built on Nostr and Tor.
   
