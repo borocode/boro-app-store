@@ -1,0 +1,30 @@
+manifestVersion: 1
+id: octra
+name: Octra Lite Node
+tagline: Sovereign FHE Consensus Validator & Telemetry Dashboard
+category: Crypto
+version: "1.1.1"
+port: 8098
+description: >-
+  Octra is a breakthrough Layer 1 blockchain powered by Hypergraph Fully Homomorphic Encryption (HFHE) enabling private smart contracts and encrypted compute at scale.
+
+  The Octra Lite Node app for Umbrel allows you to run a sovereign observer and validator node directly on your private server:
+
+  🔵 Consensus Validation: Connects directly to Octra Devnet (octra-devnet-9871-cluster), benchmarking confidential FHE circuits and validating live epochs.
+
+  📊 Real-time Telemetry: Live web dashboard displaying active epochs, engine status, peer metrics, and JSON RPC streaming.
+
+  🔒 Self-Healing Persistence: Automated state-sync and store healing ensure 24/7 autonomous uptime.
+developer: Octra Labs
+website: https://octra.org
+submitter: Boro Labs
+submission: https://github.com/borocode/boro-app-store
+repo: https://github.com/octra-labs/lite_node
+support: https://t.me/octranetwork
+gallery: []
+releaseNotes: >-
+  Version 1.1.1: Streamlined and refocused on the core Octra Lite Node with an official Octra blue-on-white telemetry dashboard and automated store self-healing.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
