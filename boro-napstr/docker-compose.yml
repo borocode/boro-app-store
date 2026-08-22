@@ -3,7 +3,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: napstr_server_1
+      APP_HOST: boro-napstr_server_1
       APP_PORT: 30421
 
   server:
