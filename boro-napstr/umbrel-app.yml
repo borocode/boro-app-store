@@ -3,7 +3,7 @@ id: boro-napstr
 name: Napstr
 tagline: Sovereign P2P Nostr & Tor audio seeder & web player
 category: Media
-version: "0.1.0"
+version: "0.2.0"
 port: 30421
 icon: "https://raw.githubusercontent.com/borocode/boro-app-store/main/boro-napstr/icon.png"
 description: >-
